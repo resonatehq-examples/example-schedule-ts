@@ -29,7 +29,7 @@ await resonate.schedule(
 ### 1. Start the Resonate server
 
 ```bash
-resonate serve
+resonate dev
 ```
 
 ### 2. Install dependencies
